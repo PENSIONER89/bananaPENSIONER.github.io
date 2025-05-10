@@ -10,7 +10,7 @@ body, html {
 }
   /*header*/
 .banana-header {
-    background-image: url(/main-img/banana-header.png);
+    background-image: url(./main-img/banana-header.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -28,7 +28,7 @@ body, html {
 
         /*section1*/
 .banana-main-section1 {
-    background-image: url(/main-img/banana-main.avif);
+    background-image: url(./main-img/banana-main.avif);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -218,7 +218,7 @@ body, html {
     /*footer*/
 
 .banana-bgc-footer {
-    background-image: url(/main-img/banana-footer.jpg);
+    background-image: url(./main-img/banana-footer.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
