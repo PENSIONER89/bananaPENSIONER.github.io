@@ -51,7 +51,7 @@ body, html {
         /*section2*/
 .bgc-green {
     background-color: rgb(0, 177, 0);
-    width: 100%;
+    width: 1920px;
     height: 500px;
 }
 .rotating-image.clone {
@@ -107,7 +107,7 @@ body, html {
         /*section3*/
 .bgc-yellow {
     background-color: yellow;
-    width: 100%;
+    width: 1920px;
     height: 500px;
 }
 .text-news {
